@@ -1,0 +1,7 @@
+Name=input("enter ur name:")
+A=int(input("enter a number"))
+B=input("enter surname")
+print(Name," ",end="")
+print(B)
+print(A)
+print(type(A))

@@ -1,0 +1,6 @@
+a=input("enter a value")
+i=int(a)
+b=list(a)
+print(a)
+print(b)
+print("mrecw","maisammaguda",sep="_",end=".")
